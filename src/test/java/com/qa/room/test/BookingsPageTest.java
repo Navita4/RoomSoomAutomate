@@ -38,5 +38,6 @@ public class BookingsPageTest extends Base
 	   {
 		   bookingsPage.open_booking_tab();
 		   
+		   
 	   }
 }
